@@ -1,6 +1,5 @@
 'use client'
 
-import { Suspense } from 'react';
 import '../styles/globals.css'
 import Loading from './loading'
 
